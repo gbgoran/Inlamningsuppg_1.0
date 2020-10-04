@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Inlamningsuppg_1._0": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
